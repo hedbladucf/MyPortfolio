@@ -74,6 +74,15 @@ h4 {
     .panel-body{
         width: 175px;
     }
+    /*.container{
+        margin-left: 0px;
+        padding-left: 10px;
+    }
+    .bg-1 h3{
+        text-align: left;
+    }
+    .glyphicon-cloud{
+    }*/
 }
 th {
     color: white;
